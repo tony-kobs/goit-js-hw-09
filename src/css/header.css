@@ -3,13 +3,13 @@
 }
 .nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
-.nav-logo {
+/* .nav-logo {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-}
+} */
 .nav-list {
   display: flex;
   align-items: center;
